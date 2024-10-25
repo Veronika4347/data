@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Veronika4347/data.git/static/css/main.e6c13ad2.css",
-    "main.js": "/Veronika4347/data.git/static/js/main.ab44adb0.js",
-    "static/js/503.efe92268.chunk.js": "/Veronika4347/data.git/static/js/503.efe92268.chunk.js",
-    "static/js/453.d31e196d.chunk.js": "/Veronika4347/data.git/static/js/453.d31e196d.chunk.js",
-    "index.html": "/Veronika4347/data.git/index.html",
-    "main.e6c13ad2.css.map": "/Veronika4347/data.git/static/css/main.e6c13ad2.css.map",
-    "main.ab44adb0.js.map": "/Veronika4347/data.git/static/js/main.ab44adb0.js.map",
-    "503.efe92268.chunk.js.map": "/Veronika4347/data.git/static/js/503.efe92268.chunk.js.map",
-    "453.d31e196d.chunk.js.map": "/Veronika4347/data.git/static/js/453.d31e196d.chunk.js.map"
+    "main.css": "/data/static/css/main.e6c13ad2.css",
+    "main.js": "/data/static/js/main.c65f5fc8.js",
+    "static/js/503.efe92268.chunk.js": "/data/static/js/503.efe92268.chunk.js",
+    "static/js/453.d31e196d.chunk.js": "/data/static/js/453.d31e196d.chunk.js",
+    "index.html": "/data/index.html",
+    "main.e6c13ad2.css.map": "/data/static/css/main.e6c13ad2.css.map",
+    "main.c65f5fc8.js.map": "/data/static/js/main.c65f5fc8.js.map",
+    "503.efe92268.chunk.js.map": "/data/static/js/503.efe92268.chunk.js.map",
+    "453.d31e196d.chunk.js.map": "/data/static/js/453.d31e196d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ab44adb0.js"
+    "static/js/main.c65f5fc8.js"
   ]
 }
